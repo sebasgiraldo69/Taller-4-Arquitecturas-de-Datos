@@ -1,0 +1,12 @@
+sources:
+  - media: "El Tiempo"
+    section: "tecnologia"
+    url: "https://www.eltiempo.com/rss/tecnosfera_videojuegos.xml"
+
+  - media: "El Tiempo"
+    section: "cultura"
+    url: "https://www.eltiempo.com/rss/cultura_entretenimiento.xml"
+
+  - media: "El Tiempo"
+    section: "deportes"
+    url: "https://www.eltiempo.com/rss/deportes_futbol-internacional.xml"
