@@ -196,17 +196,15 @@ def main():
 
     # 5. Proteger publicación definitiva
     if not can_publish(
-        total_news=total_news,
-        selected_news=len(df),
-        pending_news=counts["not_processed"],
-    ):
-        print(
-            "\nPublicación bloqueada: ejecución parcial "
-            "o noticias pendientes de enriquecimiento."
-        )
-        print("Los resultados procesados quedan en caché.")
-        print("No se sobrescribirán las tablas Silver.")
-        return
+    total_news=total_news,
+    selected_news=len(df),
+    pending_news=counts["not_processed"],
+):
+        raise RuntimeError(
+        "Publicación Silver bloqueada: ejecución parcial "
+        "o noticias pendientes de enriquecimiento. "
+        "No se publicaron tablas definitivas."
+    )
 
     # 6. Construir tablas
     entities_df, phrases_df = build_enrichment_tables(
