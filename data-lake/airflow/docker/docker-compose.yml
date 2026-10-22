@@ -1,0 +1,49 @@
+
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Configure POSTGRES_PASSWORD en .env}
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  airflow:
+    image: taller4-airflow:local
+    user: "50000:0"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "True"
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "False"
+
+      AWS_DEFAULT_REGION: us-east-1
+      COMPREHEND_CACHE_DIR: /opt/airflow/cache/comprehend
+
+    ports:
+      - "127.0.0.1:8080:8080"
+
+    volumes:
+      - ../dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ../Taller-4-Arquitecturas-de-Datos/data-lake:/opt/airflow/data-lake:ro
+      - comprehend_cache:/opt/airflow/cache/comprehend
+
+    command: standalone
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+  comprehend_cache:
