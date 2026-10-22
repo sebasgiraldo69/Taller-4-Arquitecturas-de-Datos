@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "text": "Bayern Múnich",
+      "type": "ORGANIZATION",
+      "score": 0.9955317378044128
+    },
+    {
+      "text": "Luis Díaz",
+      "type": "PERSON",
+      "score": 0.9991145133972168
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.9950365424156189
+    },
+    {
+      "text": "Vincent Kompany",
+      "type": "PERSON",
+      "score": 0.9995824694633484
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Bayern Múnich",
+      "score": 0.9992453455924988
+    },
+    {
+      "text": "la lesión",
+      "score": 0.9998628497123718
+    },
+    {
+      "text": "Luis Díaz",
+      "score": 0.9999656081199646
+    },
+    {
+      "text": "cuerpo técnico",
+      "score": 0.9999042749404907
+    },
+    {
+      "text": "El extremo colombiano",
+      "score": 0.9999356269836426
+    },
+    {
+      "text": "Arsenal",
+      "score": 0.9997628331184387
+    },
+    {
+      "text": "el cierre",
+      "score": 0.9994477033615112
+    },
+    {
+      "text": "partido",
+      "score": 0.999970555305481
+    },
+    {
+      "text": "Vincent Kompany",
+      "score": 0.9999700784683228
+    },
+    {
+      "text": "sus molestias",
+      "score": 0.9999006986618042
+    }
+  ],
+  "status": "processed"
+}

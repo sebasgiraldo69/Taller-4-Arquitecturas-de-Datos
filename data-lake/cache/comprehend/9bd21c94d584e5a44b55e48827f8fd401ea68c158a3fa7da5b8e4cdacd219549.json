@@ -1,0 +1,58 @@
+{
+  "entities": [],
+  "key_phrases": [
+    {
+      "text": "una hoja",
+      "score": 0.9999735355377197
+    },
+    {
+      "text": "laurel seca",
+      "score": 0.9227350950241089
+    },
+    {
+      "text": "la puerta",
+      "score": 0.9999224543571472
+    },
+    {
+      "text": "entrada",
+      "score": 0.999935507774353
+    },
+    {
+      "text": "hogar",
+      "score": 0.99998939037323
+    },
+    {
+      "text": "el Feng Shui",
+      "score": 0.9999801516532898
+    },
+    {
+      "text": "La práctica casera",
+      "score": 0.9999154806137085
+    },
+    {
+      "text": "el uso aromático",
+      "score": 0.9999609589576721
+    },
+    {
+      "text": "creencias",
+      "score": 0.9999773502349854
+    },
+    {
+      "text": "la atracción",
+      "score": 0.9999796748161316
+    },
+    {
+      "text": "prosperidad",
+      "score": 0.999974250793457
+    },
+    {
+      "text": "protección",
+      "score": 0.9999818801879883
+    },
+    {
+      "text": "el hogar",
+      "score": 0.9999775290489197
+    }
+  ],
+  "status": "processed"
+}

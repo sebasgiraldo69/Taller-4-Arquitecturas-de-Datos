@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "text": "RJ Mitte",
+      "type": "PERSON",
+      "score": 0.9992150068283081
+    },
+    {
+      "text": "Brownsville, Texas",
+      "type": "LOCATION",
+      "score": 0.9697775840759277
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Última publicación",
+      "score": 0.9975565671920776
+    },
+    {
+      "text": "RJ Mitte",
+      "score": 0.9999585747718811
+    },
+    {
+      "text": "actor",
+      "score": 0.9999598264694214
+    },
+    {
+      "text": "'Breaking Bad'",
+      "score": 0.9999866485595703
+    },
+    {
+      "text": "mensaje relacionado",
+      "score": 0.9997672438621521
+    },
+    {
+      "text": "la famosa serie",
+      "score": 0.9999627470970154
+    },
+    {
+      "text": "'Preguntas",
+      "score": 0.9531524777412415
+    },
+    {
+      "text": "el fallecimiento",
+      "score": 0.9999183416366577
+    },
+    {
+      "text": "intérprete",
+      "score": 0.9999486207962036
+    },
+    {
+      "text": "Brownsville",
+      "score": 0.999968409538269
+    },
+    {
+      "text": "Texas",
+      "score": 0.999976396560669
+    },
+    {
+      "text": "los 34 años",
+      "score": 0.9999386072158813
+    }
+  ],
+  "status": "processed"
+}

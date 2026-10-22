@@ -7,6 +7,11 @@ from email.utils import parsedate_to_datetime
 from urllib.parse import urlsplit, urlunsplit
 import xml.etree.ElementTree as ET
 
+from news_change_detector import (
+    load_bronze_snapshots,
+    detect_changes,
+)
+
 import boto3
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -265,6 +270,50 @@ def main():
         print(
             f"Cuarentena: s3://{BUCKET}/{quarantine_key}"
         )
+
+
+    # Reconstruir historial de cambios desde Bronze
+    snapshots = load_bronze_snapshots()
+    changes = detect_changes(snapshots)
+
+    changes_df = pd.DataFrame(changes)
+
+    if not changes_df.empty:
+        changes_df["ingestion_timestamp_utc"] = pd.to_datetime(
+            changes_df["ingestion_timestamp_utc"],
+            utc=True,
+        )
+
+        changes_df = changes_df.sort_values(
+            ["ingestion_timestamp_utc", "run_id", "news_id"],
+            kind="stable",
+        )
+
+        changes_buffer = io.BytesIO()
+
+        changes_df.to_parquet(
+            changes_buffer,
+            index=False,
+            engine="pyarrow",
+        )
+
+        changes_key = (
+            f"silver/news_changes/year={now:%Y}/"
+            f"month={now:%m}/"
+            f"day={now:%d}/news_changes.parquet"
+        )
+
+        s3.put_object(
+            Bucket=BUCKET,
+            Key=changes_key,
+            Body=changes_buffer.getvalue(),
+            ContentType="application/octet-stream",
+        )
+
+        print("\nHISTORIAL DE CAMBIOS")
+        print(f"Registros: {len(changes_df)}")
+        print(changes_df["status"].value_counts())
+        print(f"Parquet: s3://{BUCKET}/{changes_key}")
 
     print("\nProcesamiento Silver finalizado correctamente.")
 

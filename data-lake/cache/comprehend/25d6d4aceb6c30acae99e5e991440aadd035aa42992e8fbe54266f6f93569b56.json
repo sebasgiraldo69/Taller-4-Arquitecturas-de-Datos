@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "text": "Barranquilla",
+      "type": "ORGANIZATION",
+      "score": 0.6829548478126526
+    },
+    {
+      "text": "Atlético Mineiro",
+      "type": "ORGANIZATION",
+      "score": 0.9937400221824646
+    },
+    {
+      "text": "Boca Juniors",
+      "type": "ORGANIZATION",
+      "score": 0.9960541725158691
+    },
+    {
+      "text": "Torque",
+      "type": "ORGANIZATION",
+      "score": 0.6253796815872192
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Barranquilla",
+      "score": 0.9986918568611145
+    },
+    {
+      "text": "final confirmada",
+      "score": 0.924946665763855
+    },
+    {
+      "text": "la Copa Sudamericana",
+      "score": 0.9999697804450989
+    },
+    {
+      "text": "Atlético Mineiro",
+      "score": 0.9997740983963013
+    },
+    {
+      "text": "Boca Juniors",
+      "score": 0.9999521374702454
+    },
+    {
+      "text": "El equipo brasileño",
+      "score": 0.9999794363975525
+    },
+    {
+      "text": "su clasificación",
+      "score": 0.9999091029167175
+    },
+    {
+      "text": "el camino",
+      "score": 0.9997028708457947
+    },
+    {
+      "text": "Torque",
+      "score": 0.9999498128890991
+    }
+  ],
+  "status": "processed"
+}

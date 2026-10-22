@@ -1,0 +1,66 @@
+{
+  "entities": [
+    {
+      "text": "Luis Javier Suárez",
+      "type": "PERSON",
+      "score": 0.9987867474555969
+    },
+    {
+      "text": "Sporting",
+      "type": "ORGANIZATION",
+      "score": 0.9922690987586975
+    },
+    {
+      "text": "LASK",
+      "type": "ORGANIZATION",
+      "score": 0.9913591146469116
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Luis Javier Suárez",
+      "score": 0.9998660087585449
+    },
+    {
+      "text": "doblete",
+      "score": 0.9941889047622681
+    },
+    {
+      "text": "Sporting",
+      "score": 0.9999772310256958
+    },
+    {
+      "text": "sorpresiva derrota",
+      "score": 0.9998604655265808
+    },
+    {
+      "text": "Champions",
+      "score": 0.999962329864502
+    },
+    {
+      "text": "LASK",
+      "score": 0.9999504089355469
+    },
+    {
+      "text": "El delantero colombiano",
+      "score": 0.99994957447052
+    },
+    {
+      "text": "figura",
+      "score": 0.997130811214447
+    },
+    {
+      "text": "los lusos",
+      "score": 0.9998070001602173
+    },
+    {
+      "text": "la derrota",
+      "score": 0.9999254941940308
+    },
+    {
+      "text": "local",
+      "score": 0.9964945912361145
+    }
+  ],
+  "status": "processed"
+}

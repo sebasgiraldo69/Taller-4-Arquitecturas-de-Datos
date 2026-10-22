@@ -1,0 +1,44 @@
+{
+  "entities": [
+    {
+      "text": "Rockstar",
+      "type": "ORGANIZATION",
+      "score": 0.817008912563324
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "GTA VI",
+      "score": 0.999778151512146
+    },
+    {
+      "text": "la saga",
+      "score": 0.9999844431877136
+    },
+    {
+      "text": "Rockstar",
+      "score": 0.9999762773513794
+    },
+    {
+      "text": "un fenómeno",
+      "score": 0.9999877214431763
+    },
+    {
+      "text": "miles",
+      "score": 0.9999896287918091
+    },
+    {
+      "text": "millones",
+      "score": 0.9999744892120361
+    },
+    {
+      "text": "La nueva entrega",
+      "score": 0.9999690055847168
+    },
+    {
+      "text": "un mundo",
+      "score": 0.9999788403511047
+    }
+  ],
+  "status": "processed"
+}

@@ -127,6 +127,7 @@ def load_bronze_snapshots():
                 news.append({
                     "news_id": news_id,
                     "title": title,
+                    "url": url,
                     "section": metadata["section"],
                     "content_hash": content_hash,
                 })
@@ -170,9 +171,11 @@ def detect_changes(snapshots):
                 "run_id": snapshot["run_id"],
                 "section": news["section"],
                 "news_id": news_id,
+                "url": news.get("url", ""),
                 "title": news["title"],
                 "status": status,
                 "content_hash": current_hash,
+                "ingestion_timestamp_utc": snapshot["ingested_at"],
             })
 
             previous[news_id] = current_hash

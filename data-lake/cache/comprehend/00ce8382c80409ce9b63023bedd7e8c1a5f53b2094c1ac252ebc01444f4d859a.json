@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "text": "Bayern Múnich",
+      "type": "ORGANIZATION",
+      "score": 0.9906842708587646
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.973798930644989
+    },
+    {
+      "text": "Luis Díaz",
+      "type": "PERSON",
+      "score": 0.998156726360321
+    },
+    {
+      "text": "Premier",
+      "type": "ORGANIZATION",
+      "score": 0.5210922360420227
+    },
+    {
+      "text": "Baviera",
+      "type": "LOCATION",
+      "score": 0.9893978834152222
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Bayern Múnich",
+      "score": 0.9994621276855469
+    },
+    {
+      "text": "Arsenal",
+      "score": 0.9997491240501404
+    },
+    {
+      "text": "el choque estelar",
+      "score": 0.9999720454216003
+    },
+    {
+      "text": "la jornada",
+      "score": 0.9999390840530396
+    },
+    {
+      "text": "Champions League",
+      "score": 0.9999743103981018
+    },
+    {
+      "text": "Luis Díaz",
+      "score": 0.999870240688324
+    },
+    {
+      "text": "suplente",
+      "score": 0.999584972858429
+    },
+    {
+      "text": "minuto",
+      "score": 0.9960827827453613
+    },
+    {
+      "text": "minuto",
+      "score": 0.8894193768501282
+    },
+    {
+      "text": "El cuadro bávaro",
+      "score": 0.9999541640281677
+    },
+    {
+      "text": "campeón",
+      "score": 0.9999657869338989
+    },
+    {
+      "text": "la Premier League",
+      "score": 0.9999681115150452
+    },
+    {
+      "text": "último finalista",
+      "score": 0.9972367286682129
+    },
+    {
+      "text": "la Champions League",
+      "score": 0.9999650120735168
+    },
+    {
+      "text": "su casa",
+      "score": 0.9999020099639893
+    },
+    {
+      "text": "Baviera",
+      "score": 0.999976634979248
+    }
+  ],
+  "status": "processed"
+}

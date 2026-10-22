@@ -1,0 +1,80 @@
+{
+  "entities": [
+    {
+      "text": "Luis Díaz",
+      "type": "PERSON",
+      "score": 0.9963933825492859
+    },
+    {
+      "text": "Vincent Kompany",
+      "type": "PERSON",
+      "score": 0.9991669654846191
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.9941954016685486
+    },
+    {
+      "text": "Lucho",
+      "type": "PERSON",
+      "score": 0.9969159364700317
+    },
+    {
+      "text": "Leipzig",
+      "type": "ORGANIZATION",
+      "score": 0.9933813810348511
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Alarma encendida",
+      "score": 0.9948156476020813
+    },
+    {
+      "text": "Luis Díaz",
+      "score": 0.9998654723167419
+    },
+    {
+      "text": "Vincent Kompany",
+      "score": 0.9999347925186157
+    },
+    {
+      "text": "la razón",
+      "score": 0.9990014433860779
+    },
+    {
+      "text": "el guajiro",
+      "score": 0.9993627071380615
+    },
+    {
+      "text": "el Arsenal",
+      "score": 0.9999473690986633
+    },
+    {
+      "text": "la Champions League",
+      "score": 0.9999465346336365
+    },
+    {
+      "text": "La suplencia",
+      "score": 0.9999512434005737
+    },
+    {
+      "text": "Lucho",
+      "score": 0.9999001026153564
+    },
+    {
+      "text": "su triplete",
+      "score": 0.9998060464859009
+    },
+    {
+      "text": "el Leipzig",
+      "score": 0.9999678134918213
+    },
+    {
+      "text": "la Bundesliga",
+      "score": 0.9999710917472839
+    }
+  ],
+  "status": "processed"
+}

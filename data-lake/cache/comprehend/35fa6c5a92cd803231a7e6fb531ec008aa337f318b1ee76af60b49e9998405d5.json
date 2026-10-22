@@ -1,0 +1,48 @@
+{
+  "entities": [
+    {
+      "text": "Sony",
+      "type": "ORGANIZATION",
+      "score": 0.9764654040336609
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Sony",
+      "score": 0.9874241948127747
+    },
+    {
+      "text": "el fin",
+      "score": 0.9999555349349976
+    },
+    {
+      "text": "la PlayStation tradicional",
+      "score": 0.9997730851173401
+    },
+    {
+      "text": "el drástico cambio",
+      "score": 0.9999406933784485
+    },
+    {
+      "text": "la consola",
+      "score": 0.9999772310256958
+    },
+    {
+      "text": "La compañía",
+      "score": 0.9999569654464722
+    },
+    {
+      "text": "una nueva generación",
+      "score": 0.9999770522117615
+    },
+    {
+      "text": "un uso",
+      "score": 0.9998735785484314
+    },
+    {
+      "text": "televisor",
+      "score": 0.9999299049377441
+    }
+  ],
+  "status": "processed"
+}

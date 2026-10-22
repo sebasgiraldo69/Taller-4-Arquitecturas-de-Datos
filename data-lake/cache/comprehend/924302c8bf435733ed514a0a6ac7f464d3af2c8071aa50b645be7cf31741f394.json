@@ -1,0 +1,50 @@
+{
+  "entities": [],
+  "key_phrases": [
+    {
+      "text": "¿Qué",
+      "score": 0.9999641180038452
+    },
+    {
+      "text": "una planta",
+      "score": 0.9999586939811707
+    },
+    {
+      "text": "su hogar",
+      "score": 0.999982476234436
+    },
+    {
+      "text": "el Feng Shui",
+      "score": 0.9999852180480957
+    },
+    {
+      "text": "El inicio",
+      "score": 0.9999399185180664
+    },
+    {
+      "text": "la primavera",
+      "score": 0.9999296069145203
+    },
+    {
+      "text": "los cambios climáticos",
+      "score": 0.9999675154685974
+    },
+    {
+      "text": "alteraciones",
+      "score": 0.9999903440475464
+    },
+    {
+      "text": "un fenómeno",
+      "score": 0.9999745488166809
+    },
+    {
+      "text": "la revisión",
+      "score": 0.9998877644538879
+    },
+    {
+      "text": "la interpretación simbólica",
+      "score": 0.9999199509620667
+    }
+  ],
+  "status": "processed"
+}

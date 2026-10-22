@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "text": "Bruce Willis",
+      "type": "PERSON",
+      "score": 0.8109607696533203
+    },
+    {
+      "text": "Parrot Cay",
+      "type": "LOCATION",
+      "score": 0.9854198098182678
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "La mansión",
+      "score": 0.9999293684959412
+    },
+    {
+      "text": "Bruce Willis",
+      "score": 0.9999446868896484
+    },
+    {
+      "text": "Parrot Cay",
+      "score": 0.9997433423995972
+    },
+    {
+      "text": "la propiedad caribeña",
+      "score": 0.9999598860740662
+    },
+    {
+      "text": "US",
+      "score": 0.9352370500564575
+    },
+    {
+      "text": "27 millones",
+      "score": 0.9213677644729614
+    },
+    {
+      "text": "mercado",
+      "score": 0.9999732971191406
+    },
+    {
+      "text": "US",
+      "score": 0.9599817991256714
+    },
+    {
+      "text": "37,5 millones",
+      "score": 0.9590483903884888
+    },
+    {
+      "text": "El actor",
+      "score": 0.9999210834503174
+    },
+    {
+      "text": "un complejo",
+      "score": 0.9998556971549988
+    },
+    {
+      "text": "mar",
+      "score": 0.9864502549171448
+    }
+  ],
+  "status": "processed"
+}

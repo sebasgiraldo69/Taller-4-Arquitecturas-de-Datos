@@ -1,0 +1,86 @@
+{
+  "entities": [
+    {
+      "text": "Rockstar Games",
+      "type": "ORGANIZATION",
+      "score": 0.9779443740844727
+    },
+    {
+      "text": "Jason",
+      "type": "PERSON",
+      "score": 0.9974722266197205
+    },
+    {
+      "text": "Lucia",
+      "type": "PERSON",
+      "score": 0.9901317358016968
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Rockstar Games",
+      "score": 0.9999442100524902
+    },
+    {
+      "text": "detalles",
+      "score": 0.9997239708900452
+    },
+    {
+      "text": "GTA VI",
+      "score": 0.999970555305481
+    },
+    {
+      "text": "el juego",
+      "score": 0.9999549388885498
+    },
+    {
+      "text": "más emisoras",
+      "score": 0.9996013045310974
+    },
+    {
+      "text": "radio",
+      "score": 0.9999774694442749
+    },
+    {
+      "text": "la saga",
+      "score": 0.9999658465385437
+    },
+    {
+      "text": "Jason",
+      "score": 0.9999203681945801
+    },
+    {
+      "text": "Lucia",
+      "score": 0.9999524354934692
+    },
+    {
+      "text": "pódcasts",
+      "score": 0.9941439032554626
+    },
+    {
+      "text": "audífonos",
+      "score": 0.9993341565132141
+    },
+    {
+      "text": "Grand Theft Auto VI",
+      "score": 0.9999140501022339
+    },
+    {
+      "text": "seis emisoras presentadas",
+      "score": 0.9999424815177917
+    },
+    {
+      "text": "podcasts",
+      "score": 0.9989973902702332
+    },
+    {
+      "text": "un álbum",
+      "score": 0.9999440908432007
+    },
+    {
+      "text": "34 canciones originales",
+      "score": 0.9996838569641113
+    }
+  ],
+  "status": "processed"
+}

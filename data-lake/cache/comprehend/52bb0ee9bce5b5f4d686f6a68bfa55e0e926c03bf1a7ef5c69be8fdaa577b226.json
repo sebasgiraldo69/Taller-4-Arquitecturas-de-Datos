@@ -1,0 +1,56 @@
+{
+  "entities": [
+    {
+      "text": "Bayern",
+      "type": "ORGANIZATION",
+      "score": 0.9951364398002625
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.9974976181983948
+    },
+    {
+      "text": "Luis Díaz",
+      "type": "PERSON",
+      "score": 0.9992844462394714
+    },
+    {
+      "text": "Bayern Múnich",
+      "type": "ORGANIZATION",
+      "score": 0.9945724606513977
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.9905970692634583
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Bayern",
+      "score": 0.9997686743736267
+    },
+    {
+      "text": "un punto",
+      "score": 0.9998741149902344
+    },
+    {
+      "text": "el Arsenal",
+      "score": 0.9999710321426392
+    },
+    {
+      "text": "mucho riesgo",
+      "score": 0.9974879622459412
+    },
+    {
+      "text": "Luis Díaz",
+      "score": 0.9999567866325378
+    },
+    {
+      "text": "el cambio",
+      "score": 0.9999200701713562
+    }
+  ],
+  "status": "processed"
+}

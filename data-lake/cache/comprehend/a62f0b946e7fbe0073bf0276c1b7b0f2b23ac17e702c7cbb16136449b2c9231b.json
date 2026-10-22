@@ -1,0 +1,56 @@
+{
+  "entities": [
+    {
+      "text": "Rockstar Games",
+      "type": "ORGANIZATION",
+      "score": 0.9745100140571594
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Lanzamiento de GTA",
+      "score": 0.9985822439193726
+    },
+    {
+      "text": "6",
+      "score": 0.9997897744178772
+    },
+    {
+      "text": "códigos",
+      "score": 0.9999032020568848
+    },
+    {
+      "text": "juego",
+      "score": 0.9999698400497437
+    },
+    {
+      "text": "periodistas",
+      "score": 0.9998761415481567
+    },
+    {
+      "text": "oficinas",
+      "score": 0.9997922778129578
+    },
+    {
+      "text": "Rockstar Games",
+      "score": 0.999980092048645
+    },
+    {
+      "text": "una drástica estrategia",
+      "score": 0.9999783635139465
+    },
+    {
+      "text": "filtraciones",
+      "score": 0.9999481439590454
+    },
+    {
+      "text": "estreno",
+      "score": 0.9999377727508545
+    },
+    {
+      "text": "esperado juego",
+      "score": 0.9999236464500427
+    }
+  ],
+  "status": "processed"
+}

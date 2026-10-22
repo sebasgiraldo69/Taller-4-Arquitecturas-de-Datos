@@ -1,0 +1,44 @@
+{
+  "entities": [
+    {
+      "text": "de",
+      "type": "LOCATION",
+      "score": 0.49239689111709595
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Altar de Día de Muertos",
+      "score": 0.9985429048538208
+    },
+    {
+      "text": "2026",
+      "score": 0.9999663829803467
+    },
+    {
+      "text": "¿cuál",
+      "score": 0.9992679953575134
+    },
+    {
+      "text": "la fecha ideal",
+      "score": 0.9999558329582214
+    },
+    {
+      "text": "La preparación",
+      "score": 0.9999517798423767
+    },
+    {
+      "text": "la ofrenda",
+      "score": 0.9999542236328125
+    },
+    {
+      "text": "los rituales culturales",
+      "score": 0.9999611973762512
+    },
+    {
+      "text": "cada año",
+      "score": 0.9998968839645386
+    }
+  ],
+  "status": "processed"
+}

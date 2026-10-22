@@ -1,0 +1,58 @@
+{
+  "entities": [
+    {
+      "text": "Jhon Arias",
+      "type": "PERSON",
+      "score": 0.998884379863739
+    },
+    {
+      "text": "Palmeiras",
+      "type": "ORGANIZATION",
+      "score": 0.9952179193496704
+    },
+    {
+      "text": "Fluminense",
+      "type": "ORGANIZATION",
+      "score": 0.9931085109710693
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Jhon Arias",
+      "score": 0.999569833278656
+    },
+    {
+      "text": "la final",
+      "score": 0.9998579025268555
+    },
+    {
+      "text": "la Copa Libertadores",
+      "score": 0.9999018907546997
+    },
+    {
+      "text": "Palmeiras",
+      "score": 0.9996815919876099
+    },
+    {
+      "text": "penaltis",
+      "score": 0.9997242093086243
+    },
+    {
+      "text": "Fluminense",
+      "score": 0.9999366998672485
+    },
+    {
+      "text": "clasificación",
+      "score": 0.9930002689361572
+    },
+    {
+      "text": "el duelo brasileño",
+      "score": 0.9999604225158691
+    },
+    {
+      "text": "la semifinal",
+      "score": 0.9999178051948547
+    }
+  ],
+  "status": "processed"
+}

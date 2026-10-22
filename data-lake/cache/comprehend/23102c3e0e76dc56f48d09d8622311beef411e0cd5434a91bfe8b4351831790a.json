@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "text": "Leonas de Santa Fe",
+      "type": "ORGANIZATION",
+      "score": 0.9630641341209412
+    },
+    {
+      "text": "Corinthians",
+      "type": "ORGANIZATION",
+      "score": 0.9973033666610718
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Leonas de Santa Fe",
+      "score": 0.9996287822723389
+    },
+    {
+      "text": "paliza",
+      "score": 0.999677300453186
+    },
+    {
+      "text": "la Copa Libertadores femenina",
+      "score": 0.9505149126052856
+    },
+    {
+      "text": "Corinthians",
+      "score": 0.9457818269729614
+    },
+    {
+      "text": "El equipo cardenal",
+      "score": 0.9999761581420898
+    },
+    {
+      "text": "fallas defensivas",
+      "score": 0.9999039173126221
+    },
+    {
+      "text": "el equipo brasileño",
+      "score": 0.9999796152114868
+    }
+  ],
+  "status": "processed"
+}

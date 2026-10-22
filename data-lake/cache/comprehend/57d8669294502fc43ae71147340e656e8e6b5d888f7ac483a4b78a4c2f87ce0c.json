@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "text": "Rockstar Games",
+      "type": "ORGANIZATION",
+      "score": 0.9932000637054443
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Rockstar Games",
+      "score": 0.9999583959579468
+    },
+    {
+      "text": "la fecha",
+      "score": 0.9999761581420898
+    },
+    {
+      "text": "preventa",
+      "score": 0.9996123909950256
+    },
+    {
+      "text": "GTA VI",
+      "score": 0.9999812245368958
+    },
+    {
+      "text": "la carátula oficial",
+      "score": 0.9999681115150452
+    },
+    {
+      "text": "esperado videojuego",
+      "score": 0.9994686841964722
+    },
+    {
+      "text": "La compañía",
+      "score": 0.99994295835495
+    },
+    {
+      "text": "las reservas",
+      "score": 0.9998927116394043
+    },
+    {
+      "text": "formato digital",
+      "score": 0.9998083114624023
+    },
+    {
+      "text": "tiendas seleccionadas",
+      "score": 0.9998430609703064
+    }
+  ],
+  "status": "processed"
+}

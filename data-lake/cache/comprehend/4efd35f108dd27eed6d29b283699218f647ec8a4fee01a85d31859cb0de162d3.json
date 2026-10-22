@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "text": "Bogotá",
+      "type": "LOCATION",
+      "score": 0.9673914313316345
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "memes",
+      "score": 0.9531156420707703
+    },
+    {
+      "text": "el Tesla Roadster",
+      "score": 0.9999640583992004
+    },
+    {
+      "text": "bromas",
+      "score": 0.9992780089378357
+    },
+    {
+      "text": "Bogotá",
+      "score": 0.9999608993530273
+    },
+    {
+      "text": "accidentes",
+      "score": 0.9999862909317017
+    },
+    {
+      "text": "tránsito",
+      "score": 0.9999639987945557
+    },
+    {
+      "text": "carros convencionales",
+      "score": 0.9999240040779114
+    },
+    {
+      "text": "Imágenes",
+      "score": 0.9999750852584839
+    },
+    {
+      "text": "inteligencia artificial",
+      "score": 0.9998555779457092
+    },
+    {
+      "text": "guiños",
+      "score": 0.9980350136756897
+    },
+    {
+      "text": "Volver",
+      "score": 0.9998512268066406
+    },
+    {
+      "text": "futuro",
+      "score": 0.9999659061431885
+    },
+    {
+      "text": "la red",
+      "score": 0.9999648928642273
+    },
+    {
+      "text": "el carro",
+      "score": 0.9999828338623047
+    },
+    {
+      "text": "0",
+      "score": 0.9952967762947083
+    },
+    {
+      "text": "un segundo",
+      "score": 0.9997952580451965
+    }
+  ],
+  "status": "processed"
+}

@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "text": "EA SPORTS FC 27",
+      "type": "ORGANIZATION",
+      "score": 0.9605271816253662
+    },
+    {
+      "text": "Colombia",
+      "type": "LOCATION",
+      "score": 0.9933494925498962
+    },
+    {
+      "text": "Miami",
+      "type": "LOCATION",
+      "score": 0.9957701563835144
+    },
+    {
+      "text": "Colombia",
+      "type": "LOCATION",
+      "score": 0.9950413107872009
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Jugadores de EA SPORTS FC",
+      "score": 0.9984776377677917
+    },
+    {
+      "text": "27",
+      "score": 0.9999170303344727
+    },
+    {
+      "text": "Colombia",
+      "score": 0.9999737739562988
+    },
+    {
+      "text": "un cupo",
+      "score": 0.9999226927757263
+    },
+    {
+      "text": "una final mundial",
+      "score": 0.9999904036521912
+    },
+    {
+      "text": "Miami",
+      "score": 0.9999500513076782
+    },
+    {
+      "text": "La competencia",
+      "score": 0.9999460577964783
+    },
+    {
+      "text": "Colombia",
+      "score": 0.9997854828834534
+    },
+    {
+      "text": "Los participantes",
+      "score": 0.9999697208404541
+    },
+    {
+      "text": "18 años",
+      "score": 0.999953031539917
+    }
+  ],
+  "status": "processed"
+}

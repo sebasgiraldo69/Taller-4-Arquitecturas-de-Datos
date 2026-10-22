@@ -1,0 +1,46 @@
+{
+  "entities": [
+    {
+      "text": "Banco de América",
+      "type": "ORGANIZATION",
+      "score": 0.9982821941375732
+    },
+    {
+      "text": "Rockstar Games",
+      "type": "ORGANIZATION",
+      "score": 0.9857315421104431
+    },
+    {
+      "text": "Take-Two",
+      "type": "ORGANIZATION",
+      "score": 0.8992428779602051
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Banco de América",
+      "score": 0.9987990856170654
+    },
+    {
+      "text": "la polémica",
+      "score": 0.999950110912323
+    },
+    {
+      "text": "precio",
+      "score": 0.999990701675415
+    },
+    {
+      "text": "'GTA",
+      "score": 0.9996768236160278
+    },
+    {
+      "text": "6'",
+      "score": 0.9886896014213562
+    },
+    {
+      "text": "videojuego",
+      "score": 0.9999734163284302
+    }
+  ],
+  "status": "processed"
+}

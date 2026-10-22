@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "text": "Kylie Jenner",
+      "type": "PERSON",
+      "score": 0.9992722868919373
+    },
+    {
+      "text": "Victoria’s Secret",
+      "type": "ORGANIZATION",
+      "score": 0.8202461004257202
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "¿Cuánto",
+      "score": 0.9986416697502136
+    },
+    {
+      "text": "el exclusivo",
+      "score": 0.9929699897766113
+    },
+    {
+      "text": "'Fantasy Bra'",
+      "score": 0.9603252410888672
+    },
+    {
+      "text": "Kylie Jenner",
+      "score": 0.9999403357505798
+    },
+    {
+      "text": "las miradas",
+      "score": 0.9994356036186218
+    },
+    {
+      "text": "el desfile",
+      "score": 0.999958336353302
+    },
+    {
+      "text": "Victoria’s Secret",
+      "score": 0.9988310933113098
+    },
+    {
+      "text": "2026",
+      "score": 0.9999321699142456
+    },
+    {
+      "text": "1,8 kilogramos",
+      "score": 0.9991294741630554
+    },
+    {
+      "text": "peso",
+      "score": 0.9999141693115234
+    },
+    {
+      "text": "la pieza",
+      "score": 0.9999390244483948
+    },
+    {
+      "text": "una estructura articulada",
+      "score": 0.9999728202819824
+    },
+    {
+      "text": "cuerpo",
+      "score": 0.9998517036437988
+    },
+    {
+      "text": "el movimiento",
+      "score": 0.9999234676361084
+    }
+  ],
+  "status": "processed"
+}

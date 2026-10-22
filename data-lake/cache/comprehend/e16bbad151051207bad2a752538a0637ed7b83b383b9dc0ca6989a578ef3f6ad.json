@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "text": "Netflix",
+      "type": "ORGANIZATION",
+      "score": 0.9269304871559143
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Netflix",
+      "score": 0.999578058719635
+    },
+    {
+      "text": "‘Fifa World Cup",
+      "score": 0.9999367594718933
+    },
+    {
+      "text": "Launch Edition’",
+      "score": 0.9797106385231018
+    },
+    {
+      "text": "su videojuego oficial",
+      "score": 0.999972403049469
+    },
+    {
+      "text": "Mundial de Fútbol",
+      "score": 0.9999803900718689
+    },
+    {
+      "text": "La plataforma",
+      "score": 0.9999722838401794
+    },
+    {
+      "text": "streaming",
+      "score": 0.9998703002929688
+    },
+    {
+      "text": "consolas",
+      "score": 0.9994157552719116
+    },
+    {
+      "text": "teléfonos móviles",
+      "score": 0.9998806118965149
+    },
+    {
+      "text": "mandos",
+      "score": 0.999671459197998
+    }
+  ],
+  "status": "processed"
+}

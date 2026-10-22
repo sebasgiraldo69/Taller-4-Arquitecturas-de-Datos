@@ -1,0 +1,72 @@
+{
+  "entities": [
+    {
+      "text": "Microsoft",
+      "type": "ORGANIZATION",
+      "score": 0.9789556264877319
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Chao",
+      "score": 0.885918378829956
+    },
+    {
+      "text": "consola",
+      "score": 0.975422739982605
+    },
+    {
+      "text": "Microsoft",
+      "score": 0.9985612034797668
+    },
+    {
+      "text": "Windows",
+      "score": 0.9995237588882446
+    },
+    {
+      "text": "el 'Modo Xbox'",
+      "score": 0.9999266266822815
+    },
+    {
+      "text": "la experiencia",
+      "score": 0.999976396560669
+    },
+    {
+      "text": "videojuegos",
+      "score": 0.9999445676803589
+    },
+    {
+      "text": "su computador",
+      "score": 0.9998543858528137
+    },
+    {
+      "text": "control",
+      "score": 0.9999479055404663
+    },
+    {
+      "text": "La compañía",
+      "score": 0.9999791979789734
+    },
+    {
+      "text": "una interfaz optimizada",
+      "score": 0.9999573826789856
+    },
+    {
+      "text": "el consumo",
+      "score": 0.9999786615371704
+    },
+    {
+      "text": "recursos",
+      "score": 0.9999047517776489
+    },
+    {
+      "text": "la integración técnica",
+      "score": 0.9999739527702332
+    },
+    {
+      "text": "la próxima generación",
+      "score": 0.9999660849571228
+    }
+  ],
+  "status": "processed"
+}

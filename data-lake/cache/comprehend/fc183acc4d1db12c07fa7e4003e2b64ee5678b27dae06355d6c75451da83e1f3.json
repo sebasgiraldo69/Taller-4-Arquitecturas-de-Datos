@@ -1,0 +1,102 @@
+{
+  "entities": [
+    {
+      "text": "Guinness",
+      "type": "ORGANIZATION",
+      "score": 0.37470850348472595
+    },
+    {
+      "text": "Bogotá",
+      "type": "LOCATION",
+      "score": 0.9957706332206726
+    },
+    {
+      "text": "Colombia",
+      "type": "LOCATION",
+      "score": 0.7251554131507874
+    },
+    {
+      "text": "brasileños",
+      "type": "PERSON",
+      "score": 0.48763322830200195
+    },
+    {
+      "text": "'Henry",
+      "type": "PERSON",
+      "score": 0.9959487915039062
+    },
+    {
+      "text": "Klaus'",
+      "type": "PERSON",
+      "score": 0.9865370988845825
+    },
+    {
+      "text": "São Paulo",
+      "type": "LOCATION",
+      "score": 0.9910813570022583
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Ilusionistas colombianos",
+      "score": 0.9986017942428589
+    },
+    {
+      "text": "dos récords",
+      "score": 0.9999715089797974
+    },
+    {
+      "text": "Guinness",
+      "score": 0.9997900128364563
+    },
+    {
+      "text": "nueve metros",
+      "score": 0.999896764755249
+    },
+    {
+      "text": "altura",
+      "score": 0.9898101091384888
+    },
+    {
+      "text": "5 horas",
+      "score": 0.9998457431793213
+    },
+    {
+      "text": "Bogotá",
+      "score": 0.9999516010284424
+    },
+    {
+      "text": "Los magos",
+      "score": 0.9999606013298035
+    },
+    {
+      "text": "Colombia",
+      "score": 0.9999786615371704
+    },
+    {
+      "text": "el registro fijado",
+      "score": 0.9998958110809326
+    },
+    {
+      "text": "los brasileños",
+      "score": 0.9999589920043945
+    },
+    {
+      "text": "'Henry",
+      "score": 0.9988747239112854
+    },
+    {
+      "text": "Klaus'",
+      "score": 0.9988304972648621
+    },
+    {
+      "text": "una vía",
+      "score": 0.9999091625213623
+    },
+    {
+      "text": "São Paulo",
+      "score": 0.9999445676803589
+    }
+  ],
+  "status": "processed"
+}

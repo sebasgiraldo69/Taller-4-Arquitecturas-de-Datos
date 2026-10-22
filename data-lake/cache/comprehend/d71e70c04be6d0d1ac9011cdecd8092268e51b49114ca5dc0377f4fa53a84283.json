@@ -1,0 +1,80 @@
+{
+  "entities": [
+    {
+      "text": "Microsoft",
+      "type": "ORGANIZATION",
+      "score": 0.9863728880882263
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Microsoft",
+      "score": 0.9993600249290466
+    },
+    {
+      "text": "el precio",
+      "score": 0.9999655485153198
+    },
+    {
+      "text": "las consolas",
+      "score": 0.9999430775642395
+    },
+    {
+      "text": "Xbox",
+      "score": 0.9999380111694336
+    },
+    {
+      "text": "nivel mundial",
+      "score": 0.9999207854270935
+    },
+    {
+      "text": "culpa",
+      "score": 0.6890144944190979
+    },
+    {
+      "text": "auge",
+      "score": 0.999825656414032
+    },
+    {
+      "text": "la inteligencia artificial",
+      "score": 0.9999808073043823
+    },
+    {
+      "text": "alza",
+      "score": 0.9934406876564026
+    },
+    {
+      "text": "costos",
+      "score": 0.9999462366104126
+    },
+    {
+      "text": "la decisión",
+      "score": 0.999920666217804
+    },
+    {
+      "text": "encarecimiento",
+      "score": 0.9998584985733032
+    },
+    {
+      "text": "la memoria",
+      "score": 0.9999508857727051
+    },
+    {
+      "text": "el almacenamiento",
+      "score": 0.9999390244483948
+    },
+    {
+      "text": "un contexto",
+      "score": 0.9999630451202393
+    },
+    {
+      "text": "otros fabricantes",
+      "score": 0.9999452829360962
+    },
+    {
+      "text": "consolas",
+      "score": 0.999539852142334
+    }
+  ],
+  "status": "processed"
+}

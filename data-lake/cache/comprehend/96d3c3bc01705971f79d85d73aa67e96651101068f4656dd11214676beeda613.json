@@ -1,0 +1,62 @@
+{
+  "entities": [
+    {
+      "text": "Luis Díaz",
+      "type": "PERSON",
+      "score": 0.9995562434196472
+    },
+    {
+      "text": "Arsenal",
+      "type": "ORGANIZATION",
+      "score": 0.9959571957588196
+    },
+    {
+      "text": "Bayern",
+      "type": "ORGANIZATION",
+      "score": 0.9952157735824585
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Luis Díaz",
+      "score": 0.9997633099555969
+    },
+    {
+      "text": "molestias",
+      "score": 0.9999406337738037
+    },
+    {
+      "text": "Arsenal",
+      "score": 0.9998564720153809
+    },
+    {
+      "text": "señales",
+      "score": 0.9999868869781494
+    },
+    {
+      "text": "tranquilidad",
+      "score": 0.9999287128448486
+    },
+    {
+      "text": "El colombiano",
+      "score": 0.9998856782913208
+    },
+    {
+      "text": "lo ocurrido",
+      "score": 0.9993907809257507
+    },
+    {
+      "text": "el técnico",
+      "score": 0.9998135566711426
+    },
+    {
+      "text": "Bayern",
+      "score": 0.9998819828033447
+    },
+    {
+      "text": "cautela",
+      "score": 0.9978652596473694
+    }
+  ],
+  "status": "processed"
+}

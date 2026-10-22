@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "text": "Comuna 13",
+      "type": "LOCATION",
+      "score": 0.7008706331253052
+    },
+    {
+      "text": "Galería Somos",
+      "type": "LOCATION",
+      "score": 0.5678763389587402
+    },
+    {
+      "text": "Terraza de la Virgen",
+      "type": "LOCATION",
+      "score": 0.974388599395752
+    },
+    {
+      "text": "Manos de la Bichota",
+      "type": "LOCATION",
+      "score": 0.8203724026679993
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "La Comuna",
+      "score": 0.9997535347938538
+    },
+    {
+      "text": "13",
+      "score": 0.9999725818634033
+    },
+    {
+      "text": "escenario",
+      "score": 0.9990144968032837
+    },
+    {
+      "text": "un encuentro",
+      "score": 0.9999845027923584
+    },
+    {
+      "text": "música urbana",
+      "score": 0.9999591708183289
+    },
+    {
+      "text": "tecnología",
+      "score": 0.9999303817749023
+    },
+    {
+      "text": "sonido",
+      "score": 0.9999662637710571
+    },
+    {
+      "text": "La Galería Somos",
+      "score": 0.9996774196624756
+    },
+    {
+      "text": "la Terraza de la Virgen",
+      "score": 0.9998769760131836
+    },
+    {
+      "text": "Manos de la Bichota",
+      "score": 0.9999407529830933
+    },
+    {
+      "text": "una jornada",
+      "score": 0.9999237060546875
+    },
+    {
+      "text": "breaking",
+      "score": 0.9519251585006714
+    },
+    {
+      "text": "freestyle",
+      "score": 0.8082103133201599
+    },
+    {
+      "text": "sesiones musicales",
+      "score": 0.9994176626205444
+    }
+  ],
+  "status": "processed"
+}

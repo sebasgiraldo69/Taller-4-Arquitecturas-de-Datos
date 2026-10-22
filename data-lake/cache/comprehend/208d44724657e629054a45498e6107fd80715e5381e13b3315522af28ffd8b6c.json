@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "text": "Barranquilla",
+      "type": "LOCATION",
+      "score": 0.993309736251831
+    },
+    {
+      "text": "estadio Maracaná",
+      "type": "LOCATION",
+      "score": 0.7760319709777832
+    },
+    {
+      "text": "Boca",
+      "type": "ORGANIZATION",
+      "score": 0.9923305511474609
+    },
+    {
+      "text": "Flamengo",
+      "type": "ORGANIZATION",
+      "score": 0.6543570756912231
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "la final",
+      "score": 0.9999213814735413
+    },
+    {
+      "text": "Barranquilla",
+      "score": 0.9999858140945435
+    },
+    {
+      "text": "vandalismo",
+      "score": 0.999922513961792
+    },
+    {
+      "text": "el estadio Maracaná",
+      "score": 0.9999822974205017
+    },
+    {
+      "text": "la clasificación",
+      "score": 0.9999362230300903
+    },
+    {
+      "text": "Boca",
+      "score": 0.9999634027481079
+    },
+    {
+      "text": "la Copa Sudamericana",
+      "score": 0.9999426603317261
+    },
+    {
+      "text": "El club Flamengo",
+      "score": 0.9999503493309021
+    },
+    {
+      "text": "destrozos",
+      "score": 0.9999662637710571
+    },
+    {
+      "text": "el mítico escenario",
+      "score": 0.9999845623970032
+    }
+  ],
+  "status": "processed"
+}
