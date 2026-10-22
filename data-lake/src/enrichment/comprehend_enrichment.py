@@ -1,18 +1,21 @@
 import hashlib
 import json
+import os
 from pathlib import Path
 from s3_cache import load_s3_cache, save_s3_cache
-
+import os
+from pathlib import Path    
 import boto3
 from botocore.exceptions import ClientError
 
 REGION = "us-east-1"
 LANGUAGE_CODE = "es"
 
-CACHE_DIR = (
-    Path(__file__).resolve().parents[2]
-    / "cache"
-    / "comprehend"
+CACHE_DIR = Path(
+    os.environ.get(
+        "COMPREHEND_CACHE_DIR",
+        str(Path(__file__).resolve().parents[2] / "cache" / "comprehend"),
+    )
 )
 
 
