@@ -8,3 +8,12 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 .vscode/
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
