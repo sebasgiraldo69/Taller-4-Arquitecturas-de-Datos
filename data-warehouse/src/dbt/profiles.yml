@@ -1,0 +1,13 @@
+ecommerce_dw:
+  target: redshift
+  outputs:
+    redshift:
+      type: redshift
+      host: "{{ env_var('REDSHIFT_HOST') }}"
+      port: "{{ env_var('REDSHIFT_PORT', '5439') | as_number }}"
+      dbname: "{{ env_var('REDSHIFT_DATABASE') }}"
+      schema: intermediate
+      user: "{{ env_var('REDSHIFT_USER') }}"
+      password: "{{ env_var('REDSHIFT_PASSWORD') }}"
+      threads: 4
+      sslmode: require

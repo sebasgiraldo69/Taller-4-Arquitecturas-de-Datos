@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: mysql_raw
+    # "raw" es palabra reservada en Redshift; el esquema real se llama raw_data.
+    schema: raw_data
+    tables:
+      - name: mysql_customers
+      - name: mysql_products
+      - name: mysql_orders
+      - name: mysql_order_items
+  - name: mongodb_raw
+    schema: raw_data
+    tables:
+      - name: mongo_reviews
+      - name: mongo_navigation_events
