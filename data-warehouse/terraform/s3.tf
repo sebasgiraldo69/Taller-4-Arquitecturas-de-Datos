@@ -1,5 +1,6 @@
 resource "aws_s3_bucket" "data_warehouse" {
-  bucket = var.bucket_name
+  bucket        = var.bucket_name
+  force_destroy = true # Permite que 'terraform destroy' vacie el bucket (incluye versiones) antes de eliminarlo
 
   tags = {
     Project     = "Taller4-DataWarehouse"
